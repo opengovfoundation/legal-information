@@ -22,7 +22,7 @@ The purposes of the Committee shall be:
 
 (a) To promote the general welfare of the people and benefit the public by advancing and maintaining new internet technologies that enable the public to better understand and participate in the law-­making process and support the honest and respectful discourse on public policy issues.
 
-(b) To promote and enable transparency in government decision-­making and more inclusive and meaningful civil dialogue and public participation in the law-­ making process by facilitating the interaction between both the public and lawmakers regarding law-­making and the legislative process, which will enable more public participation and promote philanthropic social welfare.
+(b) To promote and enable transparency in government decision-­making and more inclusive and meaningful civil dialogue and public participation in the law-­making process by facilitating the interaction between both the public and lawmakers regarding law-­making and the legislative process, which will enable more public participation and promote philanthropic social welfare.
 
 ### Section 2. Restrictions on Activities.
 
