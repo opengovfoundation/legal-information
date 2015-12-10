@@ -40,15 +40,15 @@ The Committee shall operate under the following restrictions:
 
 ### Section 1. Authority and Responsibility.
 
-The governing body of the Committee shall be the Board of Directors. The Board of Directors shall have supervision, control, and direction of the affairs of the Committee; shall actively prosecute the Committee’s objectives; and shall supervise the disbursement of the Committee’s funds. The Board may adopt such rules and regulations for the conduct of its business as shall be deemed advisable, and may, in the execution of the powers granted, delegate certain of its authority and responsibility to one or more committees.
+The governing body of the Committee shall be the Board of Directors. The Board of Directors shall have supervision, control, and direction of the affairs of the Committee; shall actively prosecute the Committee’s objectives; and shall contribute to raising and contribute to the supervision the disbursement of the Committee’s funds. The Board may adopt such rules and regulations for the conduct of its business as shall be deemed advisable, and may, in the execution of the powers granted, delegate certain of its authority and responsibility to one or more committees.
 
 ### Section 2. Number and Tenure of Office.
 
-The Board of Directors shall consist of no less than three nor more than nine Directors. Each Director shall hold office for three years or until his successor is duly elected and qualifies. Terms of Directors may be coterminous.
+The Board of Directors shall consist of no less than three nor more than nine Directors. Each Director shall hold office for one year or until his successor is duly elected and qualifies. Terms of Directors may be coterminous.
 
 ### Section 3. Manner of Election.
 
-The Incorporator named in the Committee's Articles of Incorporation shall designate the size of the permanent Board and shall designate the members of the Board for a term of one year. Thereafter, at each annual meeting of the Board of Directors, a number of Directors equal to that of those whose terms have expired shall be elected for the term of three years. Such election shall be by a majority of the Directors whose terms have not expired and who are present and voting. Any Director may be reelected at the expiration of his term of office. If the size of the Board is increased, one-third of the additional Directors shall serve initial terms of one year, one-third shall serve initial terms of two years, and one-third shall serve three year terms.
+The Incorporator named in the Committee's Articles of Incorporation shall designate the size of the permanent Board and shall designate the members of the Board for a term of one year. Thereafter, at each annual meeting of the Board of Directors, a number of Directors equal to that of those whose terms have expired shall be elected for the term of one year. Such election shall be by a majority of the Directors whose terms have not expired and who are present and voting. Any Director may be reelected at the expiration of his term of office.
 
 ### Section 4. Place and Manner of Meeting; Action Without Meeting.
 
@@ -166,7 +166,7 @@ In the absence of fraud, the directors of the Committee shall not be personally 
 
 ### Section 2. Indemnification.
 
-the Committee may indemnify and reimburse all persons whom it has the power to indemnify and reimburse, in the manner and to the fullest extent provided therein, for all expenses actually and necessarily incurred in connection with the defense of any action, suit, or proceeding in which he is made a party by reason of having been a director, officer, or member of a special committee, except with respect to matters as to which such person has been adjudged liable by virtue of negligence or misconduct in the performance of a duty. The Committee may purchase and maintain insurance for this purpose. The indemnification provided for in this Article V shall not be deemed exclusive of any other rights to which those seeking indemnification for any reason whatever may be entitled under any agreement, vote of disinterested Directors, or otherwise.
+the Committee may indemnify and reimburse all persons whom it has the power to indemnify and reimburse in compliance with the Washington, D.C. Nonprofit Corporation Act, in the manner and to the fullest extent provided therein, for all expenses actually and necessarily incurred in connection with the defense of any action, suit, or proceeding in which he is made a party by reason of having been a director, officer, or member of a special committee, except with respect to matters as to which such person has been adjudged liable by virtue of negligence or misconduct in the performance of a duty. The Committee may purchase and maintain insurance for this purpose. The indemnification provided for in this Article V shall not be deemed exclusive of any other rights to which those seeking indemnification for any reason whatever may be entitled under any agreement, vote of disinterested Directors, or otherwise.
 
 ## Article VI GENERAL PROVISIONS
 
@@ -217,13 +217,36 @@ The Bylaws of the Committee may be altered, amended, added to, or repealed by ma
 ## Article IX REVIEW OF CERTAIN TRANSACTIONS
 
 Prior to the Committee entering into any compensation agreement, contract for goods or services, or any other transaction with any person who was, at any time during the five-year period preceding the transaction, in a position to exercise substantial influence over the affairs of the organization, the Board of Directors shall take the following precautions to ensure that the transaction is reasonable for purposes of Section 4958 of the Internal Revenue Code of 1986, as amended:
-
 (a) The panel of the Board of Directors approving the transaction must be composed entirely of individuals unrelated to and not under the control of the disqualified person or persons involved in the transaction;
-
 (b) The Board of Directors shall obtain and rely upon a "comparability study" indicating that the proposed transaction is reasonable when compared with similarly-situated organizations for functionally comparable positions, goods or services rendered, taking into account the location of the organization and the availability of similar specialties in the geographic area; and
-
 (c) The Board of Directors shall set forth in the resolution approving the transaction the basis for its determination that the compensation is reasonable based upon the evidence presented. This resolution shall be filed by the Secretary/Treasurer in the Minutes book of the Corporation.
 
-## ADOPTION OF BYLAWS
+## Article X BOARD OF ADVISORS
 
-These Bylaws are executed by Act of Incorporator. Executed by the undersigned on June 18, 2012.
+Pursuant to the District of Columbia Nonprofit Corporation Act, Section 29­406.25, the Board of Directors of the OpenGov Foundation hereby authorizes the establishment of a Board of Advisors and Collaborators to act as an advisory committee to the President and the Board of Directors and to assist in implementation of the programs of the OpenGov Foundation. The Board of Advisors and Collaborators shall have the powers and duties contained in this resolution.
+
+### Section 1. Membership.
+
+The Board of Directors shall have the power to appoint as many individuals as they deem necessary to sit on the OpenGov Foundation’s Board of Advisors and Collaborators for terms to last a period of one year. Members of the Board of Advisors and Collaborators may be reappointed by the Board of Directors for additional terms. The Board of Directors may also fill vacancies as they occur. The terms shall be one year from date of appointment.
+
+In considering candidates to serve on the Board of Advisors and Collaborators, the Board of Directors shall name individuals who have demonstrated an interest in furthering the objectives of the OpenGov Foundation through financial support, provision of other valuable services, service in the community, or whose presence on the Board of Advisors and Collaborators would otherwise enhance the mission of the OpenGov Foundation.
+
+The Board of Directors shall also appoint one member of the Board of Advisors and Collaborators to chair meetings, act as liaison with the Board of Directors of the OpenGov Foundation, and perform such other tasks as may be necessary to implement the goals of the OpenGov Foundation. The Board of Directors may also appoint up to four co­chairs of the Board of Advisors and Collaborators.
+
+### Section 2. Powers of the Board of Advisor.
+
+The Board of Advisors and Collaborators shall act as an advisory committee to the OpenGov Foundation Board of Directors in seeking to implement the goals of the OpenGov Foundation. They shall review program activities, financial plans, setting of legislative goals, and all other activities undertaken as part of the OpenGov Foundation. In accordance with District of Columbia Nonprofit Corporation Code, Sections 29­406.25(e) and (h), the OpenGov Foundation Board of Advisors and Collaborators shall not: authorize distributions; be a committee of the Board of Directors; exercise any of the powers of the Board of Directors. The OpenGov Foundation Board of Directors retains ultimate control over all OpenGov Foundation’s activities.
+
+### Section 3. Staff.
+
+The Board of Advisors and Collaborators shall not retain any independent staff, but rather shall utilize the staff of OpenGov Foundation as made available by the Board of Directors.
+
+### Section 4. Meetings.
+
+The Board of Advisors and Collaborators shall meet subject to the call of the Board of Directors. The Board of Directors may call additional meetings as required. The Chairman and Executive Director of OpenGov Foundation may serve as a Member of the Board of Advisors and Collaborators or may attend the meetings of the Board of Advisors and Collaborators and participate as necessary.
+
+Meetings of the Board of Advisors and Collaborators will be conducted according to Roberts Rules of Order. A written agenda shall be provided to members of the Board of Advisors and Collaborators at least seven days prior to the meeting.
+
+ADOPTION OF BYLAWS
+
+These Bylaws are executed and adopted by Act of the Board of Directors on December 7, 2015.
