@@ -20,9 +20,9 @@ The Committee shall have and continuously maintain, in the state of District of 
 
 The purposes of the Committee shall be:
 
-(a) To promote the general welfare of the people and benefit the public by advancing and maintaining new internet technologies that enable the public to better understand and participate in the law-­making process and support the honest and respectful discourse on public policy issues.
+(a) To promote the general welfare of the people and benefit the public by advancing and maintaining new internet technologies that enable the public to better understand and participate in the law-making process and support the honest and respectful discourse on public policy issues.
 
-(b) To promote and enable transparency in government decision-­making and more inclusive and meaningful civil dialogue and public participation in the law-­making process by facilitating the interaction between both the public and lawmakers regarding law-­making and the legislative process, which will enable more public participation and promote philanthropic social welfare.
+(b) To promote and enable transparency in government decision-making and more inclusive and meaningful civil dialogue and public participation in the law-making process by facilitating the interaction between both the public and lawmakers regarding law-making and the legislative process, which will enable more public participation and promote philanthropic social welfare.
 
 ### Section 2. Restrictions on Activities.
 
@@ -48,7 +48,7 @@ The Board of Directors shall consist of no less than three nor more than nine Di
 
 ### Section 3. Manner of Election.
 
-The Incorporator named in the Committee's Articles of Incorporation shall designate the size of the permanent Board and shall designate the members of the Board for a term of one year. Thereafter, at each annual meeting of the Board of Directors, a number of Directors equal to that of those whose terms have expired shall be elected for the term of three years. Such election shall be by a majority of the Directors whose terms have not expired and who are present and voting. Any Director may be reelected at the expiration of his term of office. If the size of the Board is increased, one-­third of the additional Directors shall serve initial terms of one year, one-­third shall serve initial terms of two years, and one-­third shall serve three year terms.
+The Incorporator named in the Committee's Articles of Incorporation shall designate the size of the permanent Board and shall designate the members of the Board for a term of one year. Thereafter, at each annual meeting of the Board of Directors, a number of Directors equal to that of those whose terms have expired shall be elected for the term of three years. Such election shall be by a majority of the Directors whose terms have not expired and who are present and voting. Any Director may be reelected at the expiration of his term of office. If the size of the Board is increased, one-third of the additional Directors shall serve initial terms of one year, one-third shall serve initial terms of two years, and one-third shall serve three year terms.
 
 ### Section 4. Place and Manner of Meeting; Action Without Meeting.
 
@@ -56,7 +56,7 @@ Annual and regular meetings of the Board of Directors may be held at such place 
 
 ### Section 5. Notice of Meeting.
 
-Written or printed notice of every annual and regular meeting of the Board of Directors, stating the place, day, and hour of the meeting must be given personally, by mail, or by telecopy to Directors not less than ten nor more than sixty days prior to the date of the meeting. Notice of the time and place of a special meeting shall be served upon, telephoned, or telecopied to each Director at least forty-­eight hours prior to the time of the meeting. No notice need be given to any Director who actually attends, or who executes and files a written waiver of notice of such meeting, either before or after the meeting.
+Written or printed notice of every annual and regular meeting of the Board of Directors, stating the place, day, and hour of the meeting must be given personally, by mail, or by telecopy to Directors not less than ten nor more than sixty days prior to the date of the meeting. Notice of the time and place of a special meeting shall be served upon, telephoned, or telecopied to each Director at least forty-eight hours prior to the time of the meeting. No notice need be given to any Director who actually attends, or who executes and files a written waiver of notice of such meeting, either before or after the meeting.
 
 ### Section 6. Quorum.
 
@@ -80,7 +80,7 @@ The Board of Directors, by majority vote, is empowered to appoint temporary Dire
 
 ### Section 11. Removal of Directors.
 
-Any Director may be removed for cause by vote of two-­thirds (2/3) of the Board of Directors at a meeting expressly called for that purpose. Such removal may occur only if the director involved is first provided with adequate notice of the charges against him in the form of a statement of such charges and an opportunity to appear before the Board of Directors or forward a written statement thereto in presentation of any defense of such charges. In these regards, the Board shall act on the basis of reasonable and consistent criteria, always with the objective of advancing the best interests of the Committee.
+Any Director may be removed for cause by vote of two-thirds (2/3) of the Board of Directors at a meeting expressly called for that purpose. Such removal may occur only if the director involved is first provided with adequate notice of the charges against him in the form of a statement of such charges and an opportunity to appear before the Board of Directors or forward a written statement thereto in presentation of any defense of such charges. In these regards, the Board shall act on the basis of reasonable and consistent criteria, always with the objective of advancing the best interests of the Committee.
 
 ### Section 12. Resignation.
 
@@ -90,7 +90,7 @@ Any Director may resign from the Board by giving written notice to the Chairman 
 
 ### Section 1. Officers and Qualifications.
 
-The officers of the Committee shall be the President, the Vice-­President, Secretary/Treasurer, and such other officers as the Board of Directors deems advisable from time to time. Any two offices, except the offices of President and Secretary/Treasurer, may be held by the same person.
+The officers of the Committee shall be the President, the Vice-President, Secretary/Treasurer, and such other officers as the Board of Directors deems advisable from time to time. Any two offices, except the offices of President and Secretary/Treasurer, may be held by the same person.
 
 ### Section 2. Election.
 
@@ -122,9 +122,9 @@ The duties and powers of the officers of the Committee shall be as follows or as
 
 (f) He or she shall enforce these Bylaws and perform all the duties incident to the office of President, and which are required by law, and, generally, he or she shall supervise and control the activities of the Committee.
 
-#### Vice-­President
+#### Vice-President
 
-The Vice-­President shall exercise the powers of the President in the absence of the President, and shall assist the President and Board of Directors as required. Secretary
+The Vice-President shall exercise the powers of the President in the absence of the President, and shall assist the President and Board of Directors as required. Secretary
 
 (a) The Secretary shall keep the minutes of the meetings of the Board of Directors in appropriate books.
 
@@ -178,7 +178,7 @@ The Board of Directors may authorize the President or any other officer or agent
 
 ### Section 3. Investments.
 
-The Committee shall have the right to retain all or any part of any securities or property acquired by it in whatever manner, and to invest and reinvest any funds held by it according to the judgment of the Board of Directors. The Board of Directors is restricted to the prudent investments which a director is or may hereafter be permitted by law to make. The Board of Directors may delegate to the day-­to-­day management of such investments as the Board of Directors may authorize.
+The Committee shall have the right to retain all or any part of any securities or property acquired by it in whatever manner, and to invest and reinvest any funds held by it according to the judgment of the Board of Directors. The Board of Directors is restricted to the prudent investments which a director is or may hereafter be permitted by law to make. The Board of Directors may delegate to the day-to-day management of such investments as the Board of Directors may authorize.
 
 ### Section 4. Books and Records.
 
@@ -216,11 +216,11 @@ The Bylaws of the Committee may be altered, amended, added to, or repealed by ma
 
 ## Article IX REVIEW OF CERTAIN TRANSACTIONS
 
-Prior to the Committee entering into any compensation agreement, contract for goods or services, or any other transaction with any person who was, at any time during the five-­year period preceding the transaction, in a position to exercise substantial influence over the affairs of the organization, the Board of Directors shall take the following precautions to ensure that the transaction is reasonable for purposes of Section 4958 of the Internal Revenue Code of 1986, as amended:
+Prior to the Committee entering into any compensation agreement, contract for goods or services, or any other transaction with any person who was, at any time during the five-year period preceding the transaction, in a position to exercise substantial influence over the affairs of the organization, the Board of Directors shall take the following precautions to ensure that the transaction is reasonable for purposes of Section 4958 of the Internal Revenue Code of 1986, as amended:
 
 (a) The panel of the Board of Directors approving the transaction must be composed entirely of individuals unrelated to and not under the control of the disqualified person or persons involved in the transaction;
 
-(b) The Board of Directors shall obtain and rely upon a "comparability study" indicating that the proposed transaction is reasonable when compared with similarly-­situated organizations for functionally comparable positions, goods or services rendered, taking into account the location of the organization and the availability of similar specialties in the geographic area; and
+(b) The Board of Directors shall obtain and rely upon a "comparability study" indicating that the proposed transaction is reasonable when compared with similarly-situated organizations for functionally comparable positions, goods or services rendered, taking into account the location of the organization and the availability of similar specialties in the geographic area; and
 
 (c) The Board of Directors shall set forth in the resolution approving the transaction the basis for its determination that the compensation is reasonable based upon the evidence presented. This resolution shall be filed by the Secretary/Treasurer in the Minutes book of the Corporation.
 
