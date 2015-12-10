@@ -217,8 +217,11 @@ The Bylaws of the Committee may be altered, amended, added to, or repealed by ma
 ## Article IX REVIEW OF CERTAIN TRANSACTIONS
 
 Prior to the Committee entering into any compensation agreement, contract for goods or services, or any other transaction with any person who was, at any time during the five-year period preceding the transaction, in a position to exercise substantial influence over the affairs of the organization, the Board of Directors shall take the following precautions to ensure that the transaction is reasonable for purposes of Section 4958 of the Internal Revenue Code of 1986, as amended:
+
 (a) The panel of the Board of Directors approving the transaction must be composed entirely of individuals unrelated to and not under the control of the disqualified person or persons involved in the transaction;
+
 (b) The Board of Directors shall obtain and rely upon a "comparability study" indicating that the proposed transaction is reasonable when compared with similarly-situated organizations for functionally comparable positions, goods or services rendered, taking into account the location of the organization and the availability of similar specialties in the geographic area; and
+
 (c) The Board of Directors shall set forth in the resolution approving the transaction the basis for its determination that the compensation is reasonable based upon the evidence presented. This resolution shall be filed by the Secretary/Treasurer in the Minutes book of the Corporation.
 
 ## Article X BOARD OF ADVISORS
