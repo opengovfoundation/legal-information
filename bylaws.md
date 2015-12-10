@@ -124,7 +124,9 @@ The duties and powers of the officers of the Committee shall be as follows or as
 
 #### Vice-President
 
-The Vice-President shall exercise the powers of the President in the absence of the President, and shall assist the President and Board of Directors as required. Secretary
+The Vice-President shall exercise the powers of the President in the absence of the President, and shall assist the President and Board of Directors as required.
+
+#### Secretary
 
 (a) The Secretary shall keep the minutes of the meetings of the Board of Directors in appropriate books.
 
