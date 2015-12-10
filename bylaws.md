@@ -208,9 +208,7 @@ The Committee may have a corporate seal with its name, year of incorporation, an
 
 ## Article VII DISSOLUTION
 
-Upon dissolution or final liquidation of the Committee, all assets remaining after application and
-
-distribution of assets shall be transferred or conveyed to one or more domestic corporations, societies, or organizations which have qualified for nonprofit and tax exempt status under either of Sections 501(c)(3) or 501(c)(4) of the Internal Revenue Code, and which are engaged in activities substantially similar to those of the Committee; or to the federal, state, or local government for exclusive public purpose.
+Upon dissolution or final liquidation of the Committee, all assets remaining after application and distribution of assets shall be transferred or conveyed to one or more domestic corporations, societies, or organizations which have qualified for nonprofit and tax exempt status under either of Sections 501(c)(3) or 501(c)(4) of the Internal Revenue Code, and which are engaged in activities substantially similar to those of the Committee; or to the federal, state, or local government for exclusive public purpose.
 
 ## Article VIII AMENDMENT OF BYLAWS
 
