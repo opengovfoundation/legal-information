@@ -10,7 +10,6 @@ These documents are up-to-date and accurate to the best of our knowledge and abi
 
 The following files are available in this repository:
 
-* [A spreadsheet of all staff salaries](./staff-salary.csv)
 * [IRS 501(c)(3) status](./501c3-status.pdf)
 * [Board of Advisors Rules](./board-of-advisors.txt)
 * [OpenGov Foundation Bylaws](./bylaws.pdf)
