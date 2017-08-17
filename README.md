@@ -28,4 +28,4 @@ The following files are available in this repository:
 	* [2015 PDF File](./tax-returns/2015.pdf)
 	* [2015 XML File](./tax-returns/2014%20The%20OpenGov%20Foundation%20IRS%20990.xml)
 * Audited Financial Statements
-	* [2015 PDF File](https://github.com/opengovfoundation/legal-information/blob/master/160920%20The%20OpenGov%20Foundation%20Audited%20Financial%20Statements-TY2015
+	* [2015 PDF File](legal-information/160920 The OpenGov Foundation Audited Financial Statements-TY2015
