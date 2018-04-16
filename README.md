@@ -22,5 +22,17 @@ The following files are available in this repository:
 	* [Fundraising declaration](./form-1023/fundraising.txt)
 	* [Organization narrative](./form-1023/narrative.txt)
 * [Tax returns](./tax-returns)
+<<<<<<< HEAD
 	* [2013](./tax-returns/2013.pdf)
 	* [2014](./tax-returns/2014.pdf)
+=======
+	* [2013 PDF File](./tax-returns/2013.pdf)
+	* [2013 XML File](./tax-returns/2013%20The%20OpenGov%20Foundation%20IRS%20990.xml)
+	* [2014 PDF File](./tax-returns/2014.pdf)
+	* [2014 XML File](./tax-returns/2014%20The%20OpenGov%20Foundation%20IRS%20990.xml)
+	* [2015 PDF File](./tax-returns/2015.pdf)
+	* [2015 XML File](./tax-returns/2014%20The%20OpenGov%20Foundation%20IRS%20990.xml)
+* Audited Financial Statements
+	* [2015 PDF File](./160920%20The%20OpenGov%20Foundation%20Audited%20Financial%20Statements-TY2015)
+	* [2016 PDF File](./170929%20The%20OpenGov%20Foundation%20Audited%20Financial%20Statements-TY2016.pdf)
+>>>>>>> origin/master
